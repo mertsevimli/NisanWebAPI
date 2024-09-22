@@ -1,0 +1,143 @@
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/obj/Debug/net8.0/NisanWebAPI.csproj.AssemblyReference.cache
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/obj/Debug/net8.0/NisanWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/obj/Debug/net8.0/NisanWebAPI.AssemblyInfoInputs.cache
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/obj/Debug/net8.0/NisanWebAPI.AssemblyInfo.cs
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/obj/Debug/net8.0/NisanWebAPI.csproj.CoreCompileInputs.cache
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/obj/Debug/net8.0/NisanWebAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/obj/Debug/net8.0/NisanWebAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/obj/Debug/net8.0/NisanWebAPI.sourcelink.json
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/bin/Debug/net8.0/appsettings.Development.json
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/bin/Debug/net8.0/appsettings.json
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/bin/Debug/net8.0/NisanWebAPI
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/bin/Debug/net8.0/NisanWebAPI.deps.json
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/bin/Debug/net8.0/NisanWebAPI.runtimeconfig.json
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/bin/Debug/net8.0/NisanWebAPI.dll
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/bin/Debug/net8.0/NisanWebAPI.pdb
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/bin/Debug/net8.0/Azure.Core.dll
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/bin/Debug/net8.0/Azure.Identity.dll
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/bin/Debug/net8.0/System.Memory.Data.dll
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/bin/Debug/net8.0/System.Runtime.Caching.dll
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/obj/Debug/net8.0/staticwebassets.build.json
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/obj/Debug/net8.0/staticwebassets.development.json
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/obj/Debug/net8.0/staticwebassets/msbuild.NisanWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/obj/Debug/net8.0/staticwebassets/msbuild.build.NisanWebAPI.props
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.NisanWebAPI.props
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.NisanWebAPI.props
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/obj/Debug/net8.0/scopedcss/bundle/NisanWebAPI.styles.css
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/obj/Debug/net8.0/NisanWeb.62038820.Up2Date
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/obj/Debug/net8.0/NisanWebAPI.dll
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/obj/Debug/net8.0/refint/NisanWebAPI.dll
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/obj/Debug/net8.0/NisanWebAPI.pdb
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/obj/Debug/net8.0/NisanWebAPI.genruntimeconfig.cache
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/NisanWebAPI/obj/Debug/net8.0/ref/NisanWebAPI.dll
+/Users/mertsevimli/Desktop/NisanWebAPI/bin/Debug/net8.0/appsettings.Development.json
+/Users/mertsevimli/Desktop/NisanWebAPI/bin/Debug/net8.0/appsettings.json
+/Users/mertsevimli/Desktop/NisanWebAPI/bin/Debug/net8.0/NisanWebAPI
+/Users/mertsevimli/Desktop/NisanWebAPI/bin/Debug/net8.0/NisanWebAPI.deps.json
+/Users/mertsevimli/Desktop/NisanWebAPI/bin/Debug/net8.0/NisanWebAPI.runtimeconfig.json
+/Users/mertsevimli/Desktop/NisanWebAPI/bin/Debug/net8.0/NisanWebAPI.dll
+/Users/mertsevimli/Desktop/NisanWebAPI/bin/Debug/net8.0/NisanWebAPI.pdb
+/Users/mertsevimli/Desktop/NisanWebAPI/bin/Debug/net8.0/Azure.Core.dll
+/Users/mertsevimli/Desktop/NisanWebAPI/bin/Debug/net8.0/Azure.Identity.dll
+/Users/mertsevimli/Desktop/NisanWebAPI/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/mertsevimli/Desktop/NisanWebAPI/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/mertsevimli/Desktop/NisanWebAPI/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/Users/mertsevimli/Desktop/NisanWebAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/mertsevimli/Desktop/NisanWebAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/mertsevimli/Desktop/NisanWebAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/mertsevimli/Desktop/NisanWebAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/mertsevimli/Desktop/NisanWebAPI/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/Users/mertsevimli/Desktop/NisanWebAPI/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/mertsevimli/Desktop/NisanWebAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/mertsevimli/Desktop/NisanWebAPI/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/mertsevimli/Desktop/NisanWebAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/mertsevimli/Desktop/NisanWebAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/mertsevimli/Desktop/NisanWebAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/mertsevimli/Desktop/NisanWebAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/mertsevimli/Desktop/NisanWebAPI/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/mertsevimli/Desktop/NisanWebAPI/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/Users/mertsevimli/Desktop/NisanWebAPI/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/mertsevimli/Desktop/NisanWebAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/mertsevimli/Desktop/NisanWebAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/mertsevimli/Desktop/NisanWebAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/mertsevimli/Desktop/NisanWebAPI/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/mertsevimli/Desktop/NisanWebAPI/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/mertsevimli/Desktop/NisanWebAPI/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/mertsevimli/Desktop/NisanWebAPI/bin/Debug/net8.0/System.Memory.Data.dll
+/Users/mertsevimli/Desktop/NisanWebAPI/bin/Debug/net8.0/System.Runtime.Caching.dll
+/Users/mertsevimli/Desktop/NisanWebAPI/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/mertsevimli/Desktop/NisanWebAPI/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/mertsevimli/Desktop/NisanWebAPI/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Users/mertsevimli/Desktop/NisanWebAPI/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/mertsevimli/Desktop/NisanWebAPI/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/mertsevimli/Desktop/NisanWebAPI/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mertsevimli/Desktop/NisanWebAPI/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mertsevimli/Desktop/NisanWebAPI/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mertsevimli/Desktop/NisanWebAPI/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mertsevimli/Desktop/NisanWebAPI/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/mertsevimli/Desktop/NisanWebAPI/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/mertsevimli/Desktop/NisanWebAPI/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/mertsevimli/Desktop/NisanWebAPI/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/mertsevimli/Desktop/NisanWebAPI/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/mertsevimli/Desktop/NisanWebAPI/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/mertsevimli/Desktop/NisanWebAPI/obj/Debug/net8.0/NisanWebAPI.csproj.AssemblyReference.cache
+/Users/mertsevimli/Desktop/NisanWebAPI/obj/Debug/net8.0/NisanWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mertsevimli/Desktop/NisanWebAPI/obj/Debug/net8.0/NisanWebAPI.AssemblyInfoInputs.cache
+/Users/mertsevimli/Desktop/NisanWebAPI/obj/Debug/net8.0/NisanWebAPI.AssemblyInfo.cs
+/Users/mertsevimli/Desktop/NisanWebAPI/obj/Debug/net8.0/NisanWebAPI.csproj.CoreCompileInputs.cache
+/Users/mertsevimli/Desktop/NisanWebAPI/obj/Debug/net8.0/NisanWebAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/mertsevimli/Desktop/NisanWebAPI/obj/Debug/net8.0/NisanWebAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/mertsevimli/Desktop/NisanWebAPI/obj/Debug/net8.0/staticwebassets.build.json
+/Users/mertsevimli/Desktop/NisanWebAPI/obj/Debug/net8.0/staticwebassets.development.json
+/Users/mertsevimli/Desktop/NisanWebAPI/obj/Debug/net8.0/staticwebassets/msbuild.NisanWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/mertsevimli/Desktop/NisanWebAPI/obj/Debug/net8.0/staticwebassets/msbuild.build.NisanWebAPI.props
+/Users/mertsevimli/Desktop/NisanWebAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.NisanWebAPI.props
+/Users/mertsevimli/Desktop/NisanWebAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.NisanWebAPI.props
+/Users/mertsevimli/Desktop/NisanWebAPI/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/mertsevimli/Desktop/NisanWebAPI/obj/Debug/net8.0/scopedcss/bundle/NisanWebAPI.styles.css
+/Users/mertsevimli/Desktop/NisanWebAPI/obj/Debug/net8.0/NisanWeb.62038820.Up2Date
+/Users/mertsevimli/Desktop/NisanWebAPI/obj/Debug/net8.0/NisanWebAPI.dll
+/Users/mertsevimli/Desktop/NisanWebAPI/obj/Debug/net8.0/refint/NisanWebAPI.dll
+/Users/mertsevimli/Desktop/NisanWebAPI/obj/Debug/net8.0/NisanWebAPI.pdb
+/Users/mertsevimli/Desktop/NisanWebAPI/obj/Debug/net8.0/NisanWebAPI.genruntimeconfig.cache
+/Users/mertsevimli/Desktop/NisanWebAPI/obj/Debug/net8.0/ref/NisanWebAPI.dll
